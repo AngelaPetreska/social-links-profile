@@ -13,5 +13,5 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Author
 
-- GitHub profile- [Angela Petreska](https://www.your-site.com)
+- GitHub profile- [Angela Petreska](https://github.com/AngelaPetreska)
 - Frontend Mentor profile - [Angela Petreska](https://www.frontendmentor.io/profile/)
